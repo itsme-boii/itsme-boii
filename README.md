@@ -28,7 +28,7 @@
   
 - **Infrastructure & DevOps:** Docker, Kubernetes, Linux
 
-
+---
 ## 🏦 Blockchain Development (Smart Contracts)  
 ### 🔥 DeFi & NFT Protocols  
 - **DAO on Mode Network** *(Solidity, Foundry)*  
