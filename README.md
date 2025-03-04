@@ -31,13 +31,16 @@
 ---
 ## 🏦 Blockchain Development (Smart Contracts)  
 ### 🔥 DeFi & NFT Protocols  
-- **DAO on Mode Network** *(Solidity, Foundry)*  
+- **DAO on Mode Network** *(Solidity, Foundry | Next.js)*  
   - Developed a **fully on-chain DAO** with governance and proposal voting.  
   - Integrated **Velodrome** for seamless token swaps (~$8M liquidity).  
 
-- **NFT Marketplace on Eclipse** *(Rust, Anchor, Solana)*  
+- **NFT Marketplace on Eclipse** *(Anchor, Solana | Nextjs,Node.js | Prisma, MongoDB)*  
   - Built smart contracts for **buy, sell, bid, and mint functionalities**.  
-  - Developed **bulk-minting NFTs** like Candy Machine.  
+  - Developed **bulk-minting NFTs** like Candy Machine.
+    
+- **ZK-Layered GPU Clustering** *(ZK-Proofs, Solidity, Rust, Anchor | Docker)*  
+  - Built the **first-ever ZK-powered GPU renting platform**.  
 
 - **Copy Trading Protocol on Ethereum** *(Solidity, DeFi)*  
   - Created a **trustless trade mirroring system** for DeFi users.  
@@ -45,8 +48,8 @@
 - **SuiSocial** *(Move, Sui Blockchain)*  
   - Built a **decentralized social media** app with **SUI COIN incentives**.  
 
-- **ZK-Layered GPU Clustering** *(zkAgi, Solidity, Rust)*  
-  - Built the **first-ever ZK-powered GPU renting platform**.  
+- **Aptos-Ecosystem** *(Move, Aptos Blockchain, Pinata | Next.js | AWS)*  
+  - Built a **decentralized social media + Spotify + VideoCalling** app with **Governence**.  
 
 ---
 
