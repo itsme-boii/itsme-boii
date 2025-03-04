@@ -19,7 +19,8 @@
 
 ## 🛠️ Skills  
 - **Blockchain & Smart Contracts:** Rust, Anchor, Move, Solidity
-- **Frontend Development:** Next.js, React, React Native, TypeScript/JavaScript - **Backend Development:** Node.js, Express.js, NestJS, WebSockets
+- **Backend Development:** Node.js, Express.js, NestJS, WebSockets
+- **Frontend Development:** Next.js, React, React Native, TypeScript/JavaScript
 - **Databases & Storage:** PostgreSQL, MySQL, MongoDB, Redis, Pinata, Azure Blob Storage
 -**Infrastructure & DevOps:** Docker, Kubernetes, Linux
 ---
