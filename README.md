@@ -61,10 +61,9 @@
 
 - **Spring Fest Unity Game API** *(Node.js, MySQL, Unity)*  
   - Integrated **Unity game with MySQL & web APIs** for 36K+ users.  
-  - Created an **API layer** for game interactions and user data storage.  
+  - Created an **API layer** for game interactions and user data storage.
 
-- **VitalPulse Monitor** *(Arduino, Python, WhatsApp API)*  
-  - Developed **real-time heart rate monitoring with auto-alerts**.  
+
 
 ### 🖥️ Frontend & Blockchain Integration  
 - **NFT Marketplace on Eclipse** *(Next.js, Solana, Rust, Anchor)*  
