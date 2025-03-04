@@ -18,10 +18,10 @@
 ---
 
 ## 🛠️ Skills  
-- **Languages:** Rust, Solidity, Move, TypeScript, Python, Go, C/C++  
-- **Frameworks & Tools:** Next.js, Node.js, React, React Native, Foundry, Anchor, Git  
-- **Technologies:** Blockchain, Smart Contracts, Linux, AWS, Azure, MySQL  
-
+- **Blockchain & Smart Contracts:** Rust, Anchor, Move, Solidity
+- **Frontend Development:** Next.js, React, React Native, TypeScript/JavaScript - **Backend Development:** Node.js, Express.js, NestJS, WebSockets
+- **Databases & Storage:** PostgreSQL, MySQL, MongoDB, Redis, Pinata, Azure Blob Storage
+-**Infrastructure & DevOps:** Docker, Kubernetes, Linux
 ---
 
 ## 🏦 Blockchain Development (Smart Contracts)  
