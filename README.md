@@ -3,15 +3,15 @@
 ### 🏫 Indian Institute of Technology Kharagpur | 3rd Year Undergraduate  
 
 ## 🌐 About Me  
-Blockchain & Full-Stack Developer specializing in DAOs, NFT Marketplaces, DeFi, Blockchain Security, ZK Cryptography.
+- Blockchain & Full-Stack Developer specializing in DAOs, NFT Marketplaces, DeFi, Blockchain Security, ZK Cryptography.
 
-Experienced with Solana, Ethereum, Aptos, Sui, MODE, Eclipse, and Layer 2 solutions. 
+- Experienced with Solana, Ethereum, Aptos, Sui, MODE, Eclipse, and Layer 2 solutions. 
 
-Skilled in Next.js, Node.js, React Native.
+- Skilled in Next.js, Node.js, React Native.
 
-Backend architecture with PostgreSQL, MySQL, MongoDB, Redis, Firebase, and GraphQL.
+- Backend architecture with PostgreSQL, MySQL, MongoDB, Redis, Firebase, and GraphQL.
 
-Proficient in Docker, Kubernetes, AWS Lambda, and serverless computing for scalable deployments.
+- Proficient in Docker, Kubernetes, AWS Lambda, and serverless computing for scalable deployments.
 
 
 
