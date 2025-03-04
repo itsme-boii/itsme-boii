@@ -72,23 +72,17 @@
 
 - **DAO Frontend on Mode** *(Next.js, Solidity, Foundry, Velodrome)*  
   - Created a **React-based DAO dashboard** for on-chain governance.  
-  - Integrated **Velodrome token swaps** directly into the UI.  
+  - Integrated **Velodrome token swaps** directly into the UI.
 
-- **SuiSocial** *(Next.js, Move, Sui Blockchain)*  
-  - Developed a **decentralized Instagram-like frontend** on Next.js.  
-  - Enabled **tokenized user incentives and blockchain-powered interactions**.  
-
-- **Copy Trading Frontend on Ethereum** *(Next.js, Solidity, DeFi)*  
-  - Built a **React-based UI** for connecting wallets and copying trades.  
+- **ZK-Surfer on ZKAGI** *(Next.js, DeFi)*  
+  - Built a **React-based UI** for connecting wallets and Chat-App.  
 
 ---
 
 ## 📫 Connect with Me  
 - **GitHub:** [itsme-boii](https://github.com/itsme-boii)  
 - **Email:** [tusharkhokhar.iit@gmail.com](mailto:tusharkhokhar.iit@gmail.com)  
-- **LinkedIn:** [Tushar Khokhar](#) *(Replace with actual link)*  
+- **LinkedIn:** [Tushar Khokhar](#https://www.linkedin.com/in/tusharkhokhar004/) *(Replace with actual link)*  
 
 ---
-
-🔥 Now your GitHub profile is **structured, professional, and ready to impress!** 🚀  
-Let me know if you need any tweaks!  
+## Signing Off, Byeee##
