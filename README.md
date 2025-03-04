@@ -82,7 +82,7 @@
 ## 📫 Connect with Me  
 - **GitHub:** [itsme-boii](https://github.com/itsme-boii)  
 - **Email:** [tusharkhokhar.iit@gmail.com](mailto:tusharkhokhar.iit@gmail.com)  
-- **LinkedIn:** [Tushar Khokhar](#https://www.linkedin.com/in/tusharkhokhar004/) *(Replace with actual link)*  
+- **LinkedIn:** [Tushar Khokhar](https://www.linkedin.com/in/tusharkhokhar004/)
 
 ---
 ## Signing Off, Byeee##
