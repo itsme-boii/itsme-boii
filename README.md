@@ -18,16 +18,16 @@
 ---
 
 ## 🛠️ Skills  
-- **Blockchain & Smart Contracts:** Rust, Anchor, Move, Solidity
-  
-- **Backend Development:** Node.js, Express.js, NestJS, WebSockets
-  
-- **Frontend Development:** Next.js, React, React Native, TypeScript/JavaScript
-  
-- **Databases & Storage:** PostgreSQL, MySQL, MongoDB, Redis, Pinata, Azure Blob Storage
-  
-- **Infrastructure & DevOps:** Docker, Kubernetes, Linux
----
+- **Blockchain & Smart Contracts:** <span style="color:#007acc;">Rust</span>, <span style="color:#ff8c00;">Anchor</span>, <span style="color:#9932cc;">Move</span>, <span style="color:#ffcc00;">Solidity</span>  
+
+- **Backend Development:** <span style="color:#68a063;">Node.js</span>, <span style="color:#43853d;">Express.js</span>, <span style="color:#ea4e1b;">NestJS</span>, <span style="color:#ff4500;">WebSockets</span>  
+
+- **Frontend Development:** <span style="color:#61dafb;">Next.js</span>, <span style="color:#61dafb;">React</span>, <span style="color:#61dafb;">React Native</span>, <span style="color:#f7df1e;">TypeScript/JavaScript</span>  
+
+- **Databases & Storage:** <span style="color:#336791;">PostgreSQL</span>, <span style="color:#00758f;">MySQL</span>, <span style="color:#47a248;">MongoDB</span>, <span style="color:#dc382d;">Redis</span>, <span style="color:#f4a261;">Pinata</span>, <span style="color:#0089d6;">Azure Blob Storage</span>  
+
+- **Infrastructure & DevOps:** <span style="color:#2496ed;">Docker</span>, <span style="color:#326ce5;">Kubernetes</span>, <span style="color:#f2a900;">Linux</span>  
+
 
 ## 🏦 Blockchain Development (Smart Contracts)  
 ### 🔥 DeFi & NFT Protocols  
