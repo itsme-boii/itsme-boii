@@ -3,7 +3,7 @@
 ### 🏫 Indian Institute of Technology Kharagpur | 3rd Year Undergraduate  
 
 ## 🌐 About Me  
-I specialize in **Blockchain and Full-Stack Development**, building **DAOs, NFT Marketplaces, DeFi protocols, and smart contract-powered applications**.  
+I specialize in **Blockchain and Full-Stack Development**, building **DAOs, NFT Marketplaces, Blockchain Security & Auditing, DeFi protocols, Privacy & Zero-Knowledge (ZK) Cryptography, and Blockchain Interoperability & Scaling, smart contract-powered applications**.  
 I have experience with **Solana, Ethereum, Aptos, Sui, and Layer 2 solutions**, along with modern **web & mobile development** using **Next.js, Node.js, and React Native**.  
 
 ---
