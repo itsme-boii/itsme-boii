@@ -46,7 +46,7 @@
 
 ### 🏗️ Blockchain & Web3  
 - **WEWE Launchpad (Solana)** → Developed full ecosystem for memecoins
-- **Trading Bot (Solana)** → Developed for top-tier wallet monitoring and autoTrade execution via Telegram
+- **Trading Bot (Solana)** → Developed bot for top-tier wallet monitoring and autoTrade execution
 - **On-Chain Card Game (Solana)** → Implemented real-time matchmaking using Anchor PDAs.  
 - **NFT Marketplace (Eclipse/Solana)** → Developed smart contracts and custom escrow handling for seamless minting and trading.  
 - **zkAgi (Solana)** → Smart contract development and zero-knowledge protocol integration.  
