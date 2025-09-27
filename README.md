@@ -1,10 +1,18 @@
 # 👨‍💻 Tushar Khokhar | Full-Stack, Blockchain & Systems Developer 
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharkhokhar004/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsme-boii)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharkhokhar.iit@gmail.com)  
+
+<a href="https://www.linkedin.com/in/tusharkhokhar004/" target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/itsme-boii" target="_blank">
+  <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:tusharkhokhar.iit@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/>
+</a>
 
 </div>
 
