@@ -21,7 +21,8 @@
 ---
 
 ## 🛠️ Tech Stack
-
+<div align="center">
+    
 ### 🔗 Blockchain & Web3
 `Solidity` • `Rust (Anchor)` • `Move` • `Ethereum` • `Solana` • `Aptos` • `Sui` • `Pump.fun` • `DeFi Protocols` • `NFTs` • `DAOs` • `Dex`
 
@@ -39,7 +40,7 @@
 `LangChain` • `VectorDB` • `AI x Blockchain`  
 *LLM-based automation, smart agent integration, AI-enhanced protocols*
 
-
+</div>
 ---
 
 ## 🔥 Featured Projects  
