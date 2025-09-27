@@ -76,13 +76,24 @@ timeline
     title Professional Journey
     
     2022 : Joined IIT Kharagpur (B.Tech + M.Tech)
-          : Started Blockchain & Full-Stack journey
+          : Started Blockchain & Backend journey
+          : Enrolled in CyberSecurity with course completion from Hack-the-Box
     
     2023 : Freelance Projects (DeFi, NFT, AI x Blockchain)
+          : Gold in Aptos Blockchain Challenge InterIIT Tech 12.0
           : Built Solana + Ethereum protocols
+          : Developer at SpringFest IIT Kharagpur
+          
     
     2024 : Intern @ zkAgi & ITH
           : Developed AI x Blockchain & DAO infra
     
-    2025 : Web3 Developer Intern @ Eclipse
-          : Scaling infra + launching WEWE ecosystem
+    2025 : Web3 Developer Interns
+          : WEWE MemeCoin Launchpad
+          : Neopantheon AI x Blockchain driven Game
+          : Trading Bots Blockchain x Systems
+          : Daaos at Mode Network
+          : NFT MarketPlace at Eclipse
+          : NFT MarketPlace at Fuel
+          : Backend Developer At Vanna
+     
