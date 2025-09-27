@@ -85,15 +85,17 @@ timeline
           : Developer at SpringFest IIT Kharagpur
           
     
-    2024 : Intern @ zkAgi & ITH
-          : Developed AI x Blockchain & DAO infra
+    2024 : Web2/Web3 Developer Interns
+          : Developer at zkAGI
+          : NFT MarketPlace at Fuel
+          : NFT MarketPlace at ITH (Move)
+
     
-    2025 : Web3 Developer Interns
+    2025 : Web2/Web3 Developer Interns
           : WEWE MemeCoin Launchpad
           : Neopantheon AI x Blockchain driven Game
           : Trading Bots Blockchain x Systems
           : Daaos at Mode Network
           : NFT MarketPlace at Eclipse
-          : NFT MarketPlace at Fuel
           : Backend Developer At Vanna
      
