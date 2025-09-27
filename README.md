@@ -13,10 +13,10 @@
 
 ## 🚀 About Me  
 
-🎓 Final-year student at **IIT Kharagpur** (B.Tech + M.Tech)  
-💡 Passionate about **Blockchain, Web3, Full-Stack Development, and DevOps**  
-👯 Open to collaborating on **DeFi, NFTs, DAOs, Real-time Apps & AI x Blockchain projects**  
-💬 Ask me about **Solidity, Rust, Move, Node.js, Next.js, Cloud Infra**  
+🎓 Final-year student at **IIT Kharagpur (B.Tech + M.Tech)**  
+💡 Developer across **Blockchain, Backend, Frontend, Infra, and Real-time Systems**  
+⚡ Specialized in **Web3 protocols, scalable backends, and cloud-native DevOps**  
+🛠️ Experienced in **AI x Blockchain integrations, high-performance infra & product dev** 
 
 ---
 
