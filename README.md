@@ -1,4 +1,4 @@
-# 👨‍💻 Tushar Khokhar | Blockchain & Full-Stack Developer  
+# 👨‍💻 Tushar Khokhar | Full-Stack, Blockchain & Systems Developer 
 
 <div align="center">
   
