@@ -20,23 +20,25 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-<div align="center">
+### 🔗 Blockchain & Web3
+`Solidity` • `Rust (Anchor)` • `Move` • `Ethereum` • `Solana` • `Aptos` • `Sui` • `Pump.fun` • `DeFi Protocols` • `NFTs` • `DAOs` • `Dex`
 
-**🔗 Blockchain & Web3**  
-`Solidity` • `Rust (Anchor)` • `Move` • `Ethereum` • `Solana` • `Aptos/Sui` • `DeFi Protocols` • `NFTs`
+### ⚡ Backend & Microservices
+`Node.js` • `Express.js` • `NestJS` • `GraphQL` • `PostgreSQL` • `MongoDB` • `MySQL` • `Django` • `Rust` • `Python` • `Microservices`  
 
-**⚡ Backend**  
-`Node.js` • `Express.js` • `NestJS` • `GraphQL` • `PostgreSQL` • `MongoDB` • `MySQL`  
-
-**🎨 Frontend**  
-`React` • `Next.js` • `Svelte` • `React Native` • `TailwindCSS`  
-
-**☁️ Infra & DevOps**  
+### ☁️ Infra & DevOps
 `AWS` • `GCP` • `Docker` • `Kubernetes` • `Nginx` • `CI/CD`  
 
-</div>
+### ⚡ Caching & Messaging
+`Redis` • `RabbitMQ` • `Kafka` • `BullMQ`  
+*High-performance systems, queue management, real-time data pipelines*
+
+### 🤖 AI / ML & Blockchain Integration
+`LangChain` • `VectorDB` • `AI x Blockchain`  
+*LLM-based automation, smart agent integration, AI-enhanced protocols*
+
 
 ---
 
