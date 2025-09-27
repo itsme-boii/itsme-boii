@@ -26,35 +26,38 @@
 ### 🔗 Blockchain & Web3
 `Solidity` • `Rust (Anchor)` • `Move` • `Ethereum` • `Solana` • `Aptos` • `Sui` • `Pump.fun` • `DeFi Protocols` • `NFTs` • `DAOs` • `Dex`
 
-### ⚡ Backend & Microservices
-`Node.js` • `Express.js` • `NestJS` • `GraphQL` • `PostgreSQL` • `MongoDB` • `MySQL` • `Django` • `Rust` • `Python` • `Microservices`  
+### ⚙️ Backend & Microservices
+`Node.js` • `Express.js` • `NestJS` • `GraphQL` • `PostgreSQL` • `MongoDB` • `MySQL` • `Django` • `Python` • `Microservices`  
 
 ### ☁️ Infra & DevOps
 `AWS` • `GCP` • `Docker` • `Kubernetes` • `Nginx` • `CI/CD`  
 
-### ⚡ Caching & Messaging
+### 🔄 Caching & Messaging
 `Redis` • `RabbitMQ` • `Kafka` • `BullMQ`  
-*High-performance systems, queue management, real-time data pipelines*
 
 ### 🤖 AI / ML & Blockchain Integration
 `LangChain` • `VectorDB` • `AI x Blockchain`  
-*LLM-based automation, smart agent integration, AI-enhanced protocols*
 
 </div>
 
+
 ---
-## 🔥 Featured Projects  
+## 🔥 Featured Projects and Experience  
 
 ### 🏗️ Blockchain & Web3  
-- **🚀 WEWE Launchpad (Solana)** → Full ecosystem for memecoins (proposals, backers, token holder snapshots)  
-- **📈 Copy Trading Protocol (Ethereum)** → Smart contract platform for trade mirroring  
-- **🎮 On-Chain Card Game (Solana)** → Real-time matchmaking with Anchor PDAs  
-- **🛒 NFT Marketplace (Eclipse/Solana)** → Seamless minting & trading with custom escrow  
+- **WEWE Launchpad (Solana)** → Developed full ecosystem for memecoin including smart contracts & backend implementation.  
+- **Trading Bot (Solana)** → Developed for top-tier wallet monitoring and autoTrade execution via Telegram
+- **On-Chain Card Game (Solana)** → Implemented real-time matchmaking using Anchor PDAs.  
+- **NFT Marketplace (Eclipse/Solana)** → Developed smart contracts and custom escrow handling for seamless minting and trading.  
+- **zkAgi (Solana)** → Smart contract development and zero-knowledge protocol integration.  
+- **Fuel (Ethereum L2)**  → Smart contract development for high-performance DeFi transactions.  
+- **Mode Network (Ethereum)** → Smart contract development and ecosystem integrations.  
+
 
 ### 🌐 Web2 + Realtime Systems  
-- **💻 Collaborative Code Playground** → Full-stack live coding environment (GitHub auth, autosave, real-time collab, Rust backend)  
-- **🔊 ESP32 Bluetooth Mesh** → Multi-device audio tunnel system  
-- **📱 IIT-K Tinder App** → React Native + Node.js app for students with real-time chat + image storage  
+- **Collaborative Code Playground** → Backend for live coding environment (GitHub auth, autosave, real-time collab, Rust backend)  
+- **IIT-K Tinder App** → React Native + Node.js app for students with real-time chat + image storage
+- **MCP Multiplayer Game Server** → Real-time multiplayer game server like MineCraft with **AI X Blockchain** integration
 
 ---
 
