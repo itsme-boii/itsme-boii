@@ -1,165 +1,92 @@
-# 👨‍💻 [Your Name] | [Your Main Title/Expertise]
+# 👨‍💻 Tushar Khokhar | Blockchain & Full-Stack Developer  
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharkhokhar004/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsme-boii)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharkhokhar.iit@gmail.com)  
 
 </div>
 
 ---
 
-## 🎓 Education
-**[University Name]** | [Degree] | [Year]  
-*[Additional details if needed]*
+## 🚀 About Me  
+
+🎓 Final-year student at **IIT Kharagpur** (B.Tech + M.Tech)  
+💡 Passionate about **Blockchain, Web3, Full-Stack Development, and DevOps**  
+👯 Open to collaborating on **DeFi, NFTs, DAOs, Real-time Apps & AI x Blockchain projects**  
+💬 Ask me about **Solidity, Rust, Move, Node.js, Next.js, Cloud Infra**  
 
 ---
 
-## 💡 About Me
-
-> Brief, compelling description of who you are and what you do. Keep it concise but impactful.
-
-- 🔭 Currently working on: **[Current project/focus]**
-- 🌱 Learning: **[What you're currently learning]**
-- 👯 Looking to collaborate on: **[Areas of interest]**
-- 💬 Ask me about: **[Your expertise areas]**
-
----
-
-## 🛠️ Technical Stack
-
-<details>
-<summary><strong>🔗 Blockchain & Web3</strong></summary>
-
-- **Smart Contract Languages:** 
-- **Blockchain Platforms:** 
-- **DeFi Protocols:** 
-- **Tools & Frameworks:** 
-
-</details>
-
-<details>
-<summary><strong>⚡ Backend Development</strong></summary>
-
-- **Languages:** 
-- **Frameworks:** 
-- **Databases:** 
-- **Cloud & DevOps:** 
-
-</details>
-
-<details>
-<summary><strong>🎨 Frontend Development</strong></summary>
-
-- **Languages:** 
-- **Frameworks:** 
-- **UI Libraries:** 
-- **Mobile:** 
-
-</details>
-
-<details>
-<summary><strong>☁️ Infrastructure & DevOps</strong></summary>
-
-- **Cloud Platforms:** 
-- **Containerization:** 
-- **CI/CD:** 
-- **Monitoring:** 
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-### 🏆 [Project Category 1] 
-
-<details>
-<summary><strong>📱 Project Name 1</strong> | <em>Tech Stack</em></summary>
-
-**Description:** Brief description of what the project does
-
-**Key Features:**
-- Feature 1
-- Feature 2  
-- Feature 3
-
-**Impact:** Quantifiable results or metrics
-
-[![Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square)](demo-url)
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square)](github-url)
-
-</details>
-
-<details>
-<summary><strong>🔥 Project Name 2</strong> | <em>Tech Stack</em></summary>
-
-**Description:** Brief description
-
-**Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-
-**Impact:** Results achieved
-
-[![Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square)](demo-url)
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square)](github-url)
-
-</details>
-
-### 🎯 [Project Category 2]
-
-<details>
-<summary><strong>⚡ Project Name 3</strong> | <em>Tech Stack</em></summary>
-
-**Description:** Brief description
-
-**Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-
-**Impact:** Results achieved
-
-[![Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square)](demo-url)
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square)](github-url)
-
-</details>
-
----
-
-## 📊 GitHub Analytics
+## 🛠️ Tech Stack  
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+**🔗 Blockchain & Web3**  
+`Solidity` • `Rust (Anchor)` • `Move` • `Ethereum` • `Solana` • `Aptos/Sui` • `DeFi Protocols` • `NFTs`
+
+**⚡ Backend**  
+`Node.js` • `Express.js` • `NestJS` • `GraphQL` • `PostgreSQL` • `MongoDB` • `MySQL`  
+
+**🎨 Frontend**  
+`React` • `Next.js` • `Svelte` • `React Native` • `TailwindCSS`  
+
+**☁️ Infra & DevOps**  
+`AWS` • `GCP` • `Docker` • `Kubernetes` • `Nginx` • `CI/CD`  
 
 </div>
 
 ---
 
-## 🏅 Achievements & Recognition
+## 🔥 Featured Projects  
 
-- 🎖️ **Achievement 1** - Description
-- 🏆 **Achievement 2** - Description  
-- 🥇 **Achievement 3** - Description
+### 🏗️ Blockchain & Web3  
+- **🚀 WEWE Launchpad (Solana)** → Full ecosystem for memecoins (proposals, backers, token holder snapshots)  
+- **📈 Copy Trading Protocol (Ethereum)** → Smart contract platform for trade mirroring  
+- **🎮 On-Chain Card Game (Solana)** → Real-time matchmaking with Anchor PDAs  
+- **🛒 NFT Marketplace (Eclipse/Solana)** → Seamless minting & trading with custom escrow  
+
+### 🌐 Web2 + Realtime Systems  
+- **💻 Collaborative Code Playground** → Full-stack live coding environment (GitHub auth, autosave, real-time collab, Rust backend)  
+- **🔊 ESP32 Bluetooth Mesh** → Multi-device audio tunnel system  
+- **📱 IIT-K Tinder App** → React Native + Node.js app for students with real-time chat + image storage  
 
 ---
 
-## 📈 Experience Timeline
+## 📊 GitHub Snapshot  
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsme-boii&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-boii&layout=compact&theme=radical)  
+
+</div>
+
+---
+
+## 🏅 Highlights  
+
+- 🎖️ Intern @ **Eclipse** – Web3 Developer (Full-time work + infra scaling)  
+- 🏆 Built DeFi, NFT & DAO projects across **Ethereum, Solana, Eclipse, Aptos, Sui**  
+- 🥇 Experienced in **scalable backend + DevOps pipelines** for real-time apps  
+
+---
+
+## 📈 Journey  
 
 ```mermaid
 timeline
     title Professional Journey
     
-    [Year] : [Role/Achievement]
-           : Key milestone 1
-           : Key milestone 2
+    2022 : Joined IIT Kharagpur (B.Tech + M.Tech)
+          : Started Blockchain & Full-Stack journey
     
-    [Year] : [Role/Achievement]
-           : Key milestone 1
-           : Key milestone 2
+    2023 : Freelance Projects (DeFi, NFT, AI x Blockchain)
+          : Built Solana + Ethereum protocols
+    
+    2024 : Intern @ zkAgi & ITH
+          : Developed AI x Blockchain & DAO infra
+    
+    2025 : Web3 Developer Intern @ Eclipse
+          : Scaling infra + launching WEWE ecosystem
