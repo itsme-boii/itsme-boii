@@ -45,7 +45,7 @@
 ## 🔥 Featured Projects and Experience  
 
 ### 🏗️ Blockchain & Web3  
-- **WEWE Launchpad (Solana)** → Developed full ecosystem for memecoin including smart contracts & backend implementation.  
+- **WEWE Launchpad (Solana)** → Developed full ecosystem for memecoins
 - **Trading Bot (Solana)** → Developed for top-tier wallet monitoring and autoTrade execution via Telegram
 - **On-Chain Card Game (Solana)** → Implemented real-time matchmaking using Anchor PDAs.  
 - **NFT Marketplace (Eclipse/Solana)** → Developed smart contracts and custom escrow handling for seamless minting and trading.  
