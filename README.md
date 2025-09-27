@@ -41,8 +41,8 @@
 *LLM-based automation, smart agent integration, AI-enhanced protocols*
 
 </div>
----
 
+---
 ## 🔥 Featured Projects  
 
 ### 🏗️ Blockchain & Web3  
