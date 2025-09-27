@@ -14,7 +14,7 @@
 ## 🚀 About Me  
 
 🎓 Final-year student at **IIT Kharagpur (B.Tech + M.Tech)**  
-💡 Developer across **Blockchain, Backend, Frontend, Infra, and Real-time Systems**  
+💡 Developer across **Blockchain, Backend, Infra, and Real-time Systems**  
 ⚡ Specialized in **Web3 protocols, scalable backends, and cloud-native DevOps**  
 🛠️ Experienced in **AI x Blockchain integrations, high-performance infra & product dev** 
 
