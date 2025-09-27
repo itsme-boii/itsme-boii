@@ -61,21 +61,10 @@
 
 ---
 
-## 📊 GitHub Snapshot  
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsme-boii&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-boii&layout=compact&theme=radical)  
-
-</div>
-
----
-
 ## 🏅 Highlights  
 
-- 🎖️ Intern @ **Eclipse** – Web3 Developer (Full-time work + infra scaling)  
-- 🏆 Built DeFi, NFT & DAO projects across **Ethereum, Solana, Eclipse, Aptos, Sui**  
+- 🎖️ Intern @ **Eclipse, Mode, Fuel, zkAGI, ArcaneLabs, WEWE** – Web3 Developer (Full-time work + infra scaling)  
+- 🏆 Built DeFi, NFT & DAO projects across **Ethereum, Solana, Eclipse, Aptos, Sui, Fuel, Mode**  
 - 🥇 Experienced in **scalable backend + DevOps pipelines** for real-time apps  
 
 ---
