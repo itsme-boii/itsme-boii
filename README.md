@@ -2,11 +2,13 @@
 
 <div align="center">
 
-Backend & Distributed Systems Engineer  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+%26+Distributed+Systems+Engineer;Building+Low-Latency+Systems;Real-time+%7C+Scalable+%7C+Fault-Tolerant" />
 
-[LinkedIn](https://www.linkedin.com/in/tushar-khokhar/) • 
-[GitHub](https://github.com/itsme-boii) • 
-[Email](mailto:tusharkhokhar.iit@gmail.com)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-khokhar/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/itsme-boii)
+[![Email](https://img.shields.io/badge/Email-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:tusharkhokhar.iit@gmail.com)
 
 </div>
 
@@ -14,109 +16,108 @@ Backend & Distributed Systems Engineer
 
 ## 🧠 About Me
 
-I’m a backend-focused engineer who enjoys building systems that **handle real load, real users, and real failures**.
+Backend engineer focused on systems that don’t break under load.
 
-Currently pursuing my Dual Degree at IIT Kharagpur, I’ve spent the last few years working on:
-
-- low-latency trading systems  
-- real-time data pipelines  
-- distributed backends  
-- blockchain-integrated systems  
-
-I care a lot about:
-- clean architecture  
-- system reliability  
-- performance under scale  
-
-Most of my work revolves around designing systems that **don’t break under pressure**.
+- ⚡ Low-latency trading systems  
+- 🔄 Distributed + event-driven architectures  
+- 📡 Real-time pipelines & WebSockets  
+- 🧱 Fault-tolerant backend design  
 
 ---
 
-## ⚙️ What I Work With
+## ⚙️ Tech Stack
+
+<details>
+<summary>Click to expand</summary>
 
 **Languages**
-TypeScript • JavaScript • Go • Rust • Python • SQL
+TypeScript • Go • Rust • Python • SQL
 
-**Backend & Systems**
-Node.js • Express • Fastify • WebSockets • Distributed Systems • Event-driven architecture
+**Backend**
+Node.js • Express • Fastify • WebSockets • Microservices
 
-**Databases & Caching**
-PostgreSQL • MongoDB • MySQL • Redis
+**Databases**
+PostgreSQL • MongoDB • Redis • MySQL
 
-**Async & Queues**
-BullMQ • Redis Pub/Sub • Background workers • Idempotent jobs
+**Infra**
+AWS • Docker • Kubernetes • CI/CD
 
-**Infra & DevOps**
-AWS • Docker • Kubernetes • CI/CD • Nginx
-
-**Web3 (when needed)**
-Solidity • Ethereum • Solana • Anchor
+</details>
 
 ---
 
-## 🚀 What I’ve Built
+## 🚀 Featured Work
 
-### 🏦 Trading & High-Performance Systems
-- Built a CLOB order matching engine handling thousands of requests/sec  
-- Designed real-time orderbooks using WebSockets + Redis streams  
-- Implemented concurrent-safe balance & liquidation systems
+### 🏦 Trading Systems
+- Built CLOB engine (1K–3K req/sec)
+- Real-time orderbooks using Redis + WebSockets
+- Safe concurrent balance & liquidation systems
 
----
-
-### 🔄 Distributed & Event-Driven Systems
-- Designed async pipelines with retries, backoff, and idempotency  
-- Built systems handling 50–150 req/sec with consistent performance  
-- Developed self-healing background workers
-
----
+### 🔄 Distributed Systems
+- Async pipelines (retry, backoff, idempotency)
+- Event-driven architecture with queues
+- Self-healing workers
 
 ### 📡 Real-Time Systems
-- Built multi-user collaborative code editor (Rust + WebSockets + CRDTs)  
-- Developed real-time ingestion pipelines across multiple regions and APIs  
-- Designed low-latency Pub/Sub architectures using Redis
+- Collaborative editor (Rust + CRDTs)
+- Multi-region ingestion pipelines
+- Pub/Sub infra using Redis
 
 ---
 
-### 🌐 Backend Platforms
-- Auction platform handling 1000+ concurrent users  
-- DeFi backend for lending, borrowing, and trading flows  
-- Cross-exchange trading infra with aggregation + smart routing
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=itsme-boii&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsme-boii&theme=tokyonight&hide_border=true" height="150"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsme-boii&theme=tokyo-night&hide_border=true"/>
 
 ---
 
 ## 🧩 Current Focus
 
-- Scaling backend systems for high concurrency
-- Learning deeper Rust for systems programming
-- Designing fault-tolerant distributed architectures
-- Exploring AI + backend automation systems
+- Scaling systems for high concurrency  
+- Deep diving into Rust systems programming  
+- Designing fault-tolerant infra  
+- AI + backend automation  
 
 ---
 
 ## 🌐 Portfolio
 
-🚀 Portfolio Website: [click here](https://tkhokharportfolio.vercel.app/)
+🚀 [Click Me](https://tkhokharportfolio.vercel.app/)
 
 ---
 
-## 📈 Philosophy
+## ⚡ Fun Section
 
-I prefer building systems that are:
+```bash
+> status
+Building systems that survive chaos.
 
-- predictable  
-- observable  
-- fault-tolerant  
-- easy to reason about  
+> current_mode
+Backend + Systems + Infra
 
-No unnecessary complexity. Just solid engineering.
+> goal
+Write code that scales without drama
+```
 
 ---
 
 ## 🤝 Let’s Connect
 
-If you're working on:
-- backend systems  
+If you're building:
 - trading infra  
-- real-time platforms  
+- real-time systems  
+- distributed backends  
 
-I’m always open to interesting discussions.
+Let’s talk 🤝
