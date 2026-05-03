@@ -92,12 +92,6 @@ AWS • Docker • Kubernetes • CI/CD
 
 ---
 
-## 🌐 Portfolio
-
-🚀 [Click Me](https://tkhokharportfolio.vercel.app/)
-
----
-
 ## ⚡ Fun Section
 
 ```bash
