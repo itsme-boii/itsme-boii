@@ -1,23 +1,3 @@
-<div align="center">
-
-# Tushar Khokhar
-
-### Backend & Distributed Systems Engineer
-
-<a href="https://github.com/itsme-boii">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=640&lines=backend+is+home%2C+the+terminal+is+my+IDE;Go%2C+Rust+and+a+whole+lot+of+distributed+systems;chasing+tail+latencies+since+forever;yes%2C+I+use+Linux+btw" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/tushar-khokhar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/itsme-boii"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:tusharkhokhar.iit@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
-
----
-
 ```bash
     .--.           tushar@kharagpur
    |o_o |          ───────────────────────────────────────────────
