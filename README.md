@@ -74,7 +74,10 @@ Move contracts for on-chain governance and proposals. Spent way too long trimmin
 
 <div align="center">
 
-<img alt="snake eating my commits" src="https://raw.githubusercontent.com/itsme-boii/itsme-boii/output/github-snake.gif" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsme-boii/itsme-boii/output/github-snake-dark.svg" />
+  <img alt="snake eating my commits" src="https://raw.githubusercontent.com/itsme-boii/itsme-boii/output/github-snake.svg" />
+</picture>
 
 </div>
 
