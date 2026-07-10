@@ -126,40 +126,6 @@ I basically live in your terminal. Most of my work is backends that have to stay
 
 <sub>Also comfy with: event-driven design, worker pools, distributed locking, pub/sub, caching, and the observability side of things.</sub>
 
----
-
-### where I've worked
-
-<details open>
-<summary><b>Airrender</b> &nbsp;·&nbsp; Backend & Systems Engineer &nbsp;·&nbsp; <sub>Apr '26 to Jun '26</sub></summary>
-
-<br/>
-
-Wrote the Go services that orchestrate AWS Deadline, Azure spot GPU VMs and a pile of async workers to actually run render jobs. Also built the multipart upload pipeline for 200GB+ assets on Cloudflare R2, plus the retry, idempotency and recovery logic so jobs don't just die on you.
-
-</details>
-
-<details>
-<summary><b>Arcane Labs</b> &nbsp;·&nbsp; Founding Backend & Distributed Systems Engineer &nbsp;·&nbsp; <sub>Aug '24 to Mar '26</sub></summary>
-
-<br/>
-
-First backend hire. Built the low-latency CLOB matching engine and the real-time order book behind trade execution. Set up the event-driven side (Redis, queues, WebSockets) and got p95 latency down by 40% with caching and query work. Also owned the blockchain indexing and reconciliation pipelines that keep on-chain state in sync with our services.
-
-</details>
-
-<details>
-<summary><b>zkAGI</b> &nbsp;·&nbsp; Backend & Systems Engineer &nbsp;·&nbsp; <sub>May '23 to Jul '24</sub></summary>
-
-<br/>
-
-Built a distributed GPU orchestration platform in Rust to schedule work across nodes. Wrote the low-latency peer-to-peer layer the services use to talk to each other, and ran the whole thing on Docker and Kubernetes with health checks, service discovery and auto recovery.
-
-</details>
-
-<sub>Tap a role to open it up.</sub>
-
----
 
 ### stuff I've built on the side
 
