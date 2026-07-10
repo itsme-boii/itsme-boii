@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1f6feb,100:00d4ff&height=190&text=Tushar%20Khokhar&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=Backend%20%26%20Distributed%20Systems%20Engineer&descSize=17&descAlignY=62&animation=fadeIn" width="100%" />
+# Tushar Khokhar
+
+### Backend & Distributed Systems Engineer
 
 <a href="https://github.com/itsme-boii">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=building+backends+that+don't+fall+over;Go%2C+Rust+and+a+whole+lot+of+distributed+systems;matching+engines%2C+schedulers%2C+real-time+stuff;currently+going+deep+on+Rust" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=640&lines=backend+is+home%2C+the+terminal+is+my+IDE;Go%2C+Rust+and+a+whole+lot+of+distributed+systems;chasing+tail+latencies+since+forever;yes%2C+I+use+Linux+btw" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/tushar-khokhar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/itsme-boii"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -14,47 +16,56 @@
 
 </div>
 
-<br/>
+---
+
+```bash
+    .--.           tushar@kharagpur
+   |o_o |          ───────────────────────────────────────────────
+   |:_/ |          host    : IIT Kharagpur  ·  B.Tech (8.85 CGPA)
+  //   \ \         role    : Backend & Distributed Systems Engineer
+ (|     | )        uptime  : 3+ years shipping production backends
+/'\_   _/`\        shell   : zsh + tmux, and nvim always open
+\___)=(___/        stack   : Go  ·  Rust  ·  TypeScript  ·  Linux
+                   doing   : matching engines, schedulers, pipelines
+                   motto   : correct first, then fast, then scalable
+```
+
+I basically live in a terminal. Most of my work is backends that have to stay up under load: matching engines, distributed schedulers, real-time pipelines, that kind of thing. The parts I actually enjoy are the annoying ones, concurrency, keeping data consistent, chasing down latency, and making sure things fail quietly instead of taking everything down with them.
+
+---
+
+### the impact
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td align="center" width="20%">
 
-### whoami
-
-```typescript
-const tushar = {
-  role:       "Backend & Distributed Systems Engineer",
-  school:     "IIT Kharagpur, B.Tech (8.85 CGPA)",
-  worksOn:    ["trading infra", "GPU orchestration",
-               "real-time apps"],
-  writes:     ["Go", "Rust", "TypeScript"],
-  caresAbout: "systems that stay up when things break",
-};
-```
-
-Most of my time goes into backends that have to keep
-running under load. Matching engines, distributed
-schedulers, real-time pipelines, that kind of thing.
-
-The parts I actually enjoy are the annoying ones:
-concurrency, keeping data consistent, chasing down
-latency, and making sure stuff fails quietly instead
-of taking everything down with it.
+## 40%
+<sub>lower p95 latency</sub>
 
 </td>
-<td width="45%" valign="top">
+<td align="center" width="20%">
 
-### stuff I've shipped
+## 3K
+<sub>orders/sec matched</sub>
 
-| | |
-|---|---|
-| 🏦 | A low-latency CLOB matching engine |
-| 📉 | Dropped p95 latency by 40% |
-| ☁️ | Upload pipeline for 200GB+ render assets |
-| 🦀 | A GPU orchestration platform in Rust |
-| 🥇 | Gold at InterIIT Tech Meet 12.0 |
-| 🌐 | A fest platform that took 100K+ requests |
+</td>
+<td align="center" width="20%">
+
+## 200GB+
+<sub>asset pipelines</sub>
+
+</td>
+<td align="center" width="20%">
+
+## 100K+
+<sub>requests served</sub>
+
+</td>
+<td align="center" width="20%">
+
+## 3+ yrs
+<sub>shipping backends</sub>
 
 </td>
 </tr>
@@ -104,6 +115,14 @@ of taking everything down with it.
 </td>
 </tr>
 </table>
+
+**Daily drivers**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <sub>Also comfy with: event-driven design, worker pools, distributed locking, pub/sub, caching, and the observability side of things.</sub>
 
@@ -187,20 +206,9 @@ Move contracts for on-chain governance and proposals. Spent way too long trimmin
 
 ---
 
-### the numbers
+### a peek at my commits
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=itsme-boii&show_icons=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=itsme-boii&hide_border=true&background=0d1117&ring=00d4ff&fire=1f6feb&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-boii&layout=compact&langs_count=8&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
-
-<br/><br/>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsme-boii&theme=react-dark&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsme-boii/itsme-boii/output/github-snake-dark.svg" />
