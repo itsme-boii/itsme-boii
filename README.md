@@ -30,7 +30,7 @@
                    motto   : correct first, then fast, then scalable
 ```
 
-I basically live in a terminal. Most of my work is backends that have to stay up under load: matching engines, distributed schedulers, real-time pipelines, that kind of thing. The parts I actually enjoy are the annoying ones, concurrency, keeping data consistent, chasing down latency, and making sure things fail quietly instead of taking everything down with them.
+I basically live in your terminal. Most of my work is backends that have to stay up under load: matching engines, distributed schedulers, real-time pipelines, that kind of thing. The parts I actually enjoy are the annoying ones, concurrency, keeping data consistent, chasing down latency, and making sure things fail quietly instead of taking everything down with them.
 
 ---
 
