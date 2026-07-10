@@ -16,12 +16,12 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Generate snake from contribution graph
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3          # note: full action, not /svg-only
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.gif?color_snake=#00d4ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
