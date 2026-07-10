@@ -1,5 +1,5 @@
 ```bash
-    .--.           tushar@kharagpur
+    .--.           Tushar@IIT
    |o_o |          ───────────────────────────────────────────────
    |:_/ |          host    : IIT Kharagpur  ·  B.Tech (8.85 CGPA)
   //   \ \         role    : Backend & Distributed Systems Engineer
