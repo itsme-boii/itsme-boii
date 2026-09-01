@@ -32,15 +32,6 @@ The parts I enjoy most are the hard parts: concurrency bugs that only show up un
 
 ---
 
-### what I've shipped (professionally)
-
-| where | what I built | stack |
-|-------|-------------|-------|
-| **Arcane Labs** (Founding Eng) | CLOB matching engine, real-time order book, multi-chain settlement infra, transaction state machines | Rust, Go, Redis, Solidity, Solana |
-| **AirRender** (Backend Eng) | Distributed GPU job scheduler, fault recovery for spot instances, 5+ TB asset pipelines | Go, AWS, Azure, Cloudflare R2 |
-| **ZkAGI** (Backend Eng) | Distributed GPU orchestration platform, P2P communication layer, Kubernetes deployments | Rust, K8s, Docker |
-
-<details>
 <summary><b>some numbers from production</b></summary>
 <br>
 
