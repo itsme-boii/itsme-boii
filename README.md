@@ -1,9 +1,9 @@
 ```bash
-    .--.           Tushar@IIT
+    .--.           Juboi@IIT
    |o_o |          ───────────────────────────────────────────────
-   |:_/ |          host    : IIT Kharagpur  ·  Dual Degree  ·  8.85 CGPA
+   |:_/ |          host    : IIT Kharagpur  ·  Dual Degree
   //   \ \         role    : Backend & Distributed Systems Engineer
- (|     | )        uptime  : 3+ years shipping production backends
+ (|     | )      
 /'\_   _/`\        shell   : zsh + tmux, nvim is home
 \___)=(___/        stack   : Rust  ·  Go  ·  Redis  ·  Postgres  ·  Blockchain
                    doing   : matching engines, schedulers, settlement pipelines
@@ -45,50 +45,6 @@ The parts I enjoy most are the hard parts: concurrency bugs that only show up un
 </details>
 
 ---
-
-### stuff I've built on the side
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 💸 [EMEI: Payments Infra](#)
-`Rust`
-
-Payments backend with on-chain settlement. The interesting problem was nonce race conditions on concurrent transactions. Fixed it with row-level locking and idempotent submission pipelines.
-
-</td>
-<td width="50%" valign="top">
-
-#### 📝 [Code Collaboration Platform](#)
-`Rust` `CRDTs` `WebSockets` `Redis`
-
-Real-time collaborative editor where edits never conflict. Built on CRDTs with cross-instance room management. Handles client reconnection and document recovery on dropped sessions.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 💬 [WhatsApp Backend](#)
-`Rust` `Axum` `WebSockets` `MongoDB`
-
-Full messaging backend: async delivery, offline message queue, read receipts, media upload, auth, DMs and groups. All in Rust with Axum.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🥇 [Aptos Blockchain Challenge](#)
-`Move` · **Gold, InterIIT 12.0**
-
-Move smart contracts for on-chain governance and proposal systems. Optimized gas costs by reworking the storage layout. Team took gold at InterIIT.
-
-</td>
-</tr>
-</table>
-
----
-
 ### daily drivers
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -136,11 +92,6 @@ I don't start with "how do we handle 10k requests per second." I start with "wha
 
 Building trading infra, real-time systems, or distributed backends? Always down to talk shop.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tushar-khokhar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tusharkhokhar.iit@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/itsme-boii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
 <p align="center">
   <sub>Yes, I built all of this while doing a dual degree. No, I don't sleep much.</sub>
