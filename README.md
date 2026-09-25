@@ -1,7 +1,7 @@
 ```bash
     .--.           Juboi@IIT
    |o_o |          ───────────────────────────────────────────────
-   |:_/ |          host    : IIT Kharagpur  ·  Dual Degree
+   |:_/ |          host    : · Dual Degree
   //   \ \         role    : Backend & Distributed Systems Engineer
  (|     | )      
 /'\_   _/`\        shell   : zsh + tmux, nvim is home
