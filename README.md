@@ -1,102 +1,58 @@
 ```bash
-    .--.           Juboi@IIT
-   |o_o |          ───────────────────────────────────────────────
-   |:_/ |          host    : · Dual Degree
-  //   \ \         role    : Backend & Distributed Systems Engineer
- (|     | )      
-/'\_   _/`\        shell   : zsh + tmux, nvim is home
-\___)=(___/        stack   : Rust  ·  Go  ·  Redis  ·  Postgres  ·  Blockchain
-                   doing   : matching engines, schedulers, settlement pipelines
-                   motto   : correct first, then fast, then scalable
+Juboi@IIT ───────────────────────────────────────────────
+role    : Backend & Blockchain Engineer
+degree  : B.Tech + M.Tech, IIT Kharagpur (2027)
+stack   : Go · Rust · Node.js · Solidity · Redis · Postgres
+doing   : matching engines, schedulers, settlement pipelines
+motto   : correct first, then fast, then scalable
 ```
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/EVM-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/SVM-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
 </p>
 
 ---
 
-### who am I
+### who I am
 
-I build backends where downtime costs money and a dropped message means broken state. Matching engines that respond in single-digit milliseconds. Distributed schedulers that recover from node failures without duplicating work. Settlement systems that keep on-chain and off-chain state consistent across 17 networks.
-
-The parts I enjoy most are the hard parts: concurrency bugs that only show up under load, race conditions hiding behind eventual consistency, and making systems degrade gracefully instead of exploding.
+Backend and blockchain engineer with 3+ years of experience. I build the parts of a system where a retry or a race condition can move money the wrong way: order matching, settlement, schedulers and payment flows. I also write the Solidity (Foundry) that sits next to those backends and ship it to Base and BSC.
 
 ---
 
-<summary><b>Achievement metrics</b></summary>
-<br>
+### numbers
 
-- 8 to 15ms median order latency on the matching engine
-- ~40% reduction in p95 API response time after pipeline rebuild
-- 100+ concurrent GPU jobs dispatched across 50+ nodes
-- 95%+ automatic recovery rate on preempted spot instances
-- 17 blockchain networks synchronized through one reconciliation system
-- 5+ TB of render assets flowing through concurrent upload pipelines
-
-</details>
-
----
-### daily drivers
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-<sub>Also: gRPC, Protocol Buffers, event-driven design, distributed locking, worker pools, pub/sub, caching strategies, observability (tracing, structured logging, metrics)</sub>
+| | |
+|---|---|
+| **8-15 ms** | median latency on a Go order-matching engine (lock-free, Redis Lua) |
+| **12+ chains** | reconciled through idempotent, retry-safe settlement |
+| **100+ jobs / 50+ GPUs** | rendered concurrently on AWS and Azure Spot instances |
+| **95%+** | interrupted Spot jobs recovered with no duplicate frames |
+| **~35%** | lower job start time from predictive GPU pre-warming |
+| **100+ endpoints** | in a single Go backend (auth, billing, webhooks, AI assistant) |
 
 ---
 
-### how I think about systems
+### how I work
 
-```
-                  ┌─────────────────────────────────────────┐
-                  │                                         │
-                  │   1. Make it correct                    │
-                  │   2. Make it observable                 │
-                  │   3. Make it fast                       │
-                  │   4. Make it recoverable                │
-                  │   5. Then worry about scale             │
-                  │                                         │
-                  └─────────────────────────────────────────┘
-```
-
-I don't start with "how do we handle 10k requests per second." I start with "what happens when this crashes halfway through a write." If the failure mode is clean, the system usually scales fine once you throw hardware at it. If the failure mode is broken state, no amount of horizontal scaling saves you.
+What happens when this crashes halfway through a write? I start there, before I think about throughput. If the failure mode is clean, scaling is mostly hardware.
 
 ---
-
-### a peek at my commits
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsme-boii/itsme-boii/output/github-snake-dark.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/itsme-boii/itsme-boii/output/github-snake.svg" />
 </picture>
-
 </div>
 
 ---
 
-### say hi
-
-Building trading infra, real-time systems, or distributed backends? Always down to talk shop.
-
-
-<p align="center">
-  <sub>Yes, I built all of this while doing a dual degree. No, I don't sleep much.</sub>
-</p>
+Building trading infra, payments or distributed backends? Say hi: **tusharkhokhar.iit@gmail.com** · [LinkedIn](https://linkedin.com/in/tushar-khokhar) · [X](https://x.com/Tushar_IIT)
