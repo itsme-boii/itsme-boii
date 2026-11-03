@@ -37,9 +37,10 @@ I am a backend and blockchain engineer with 3+ years of experience. I build the 
 | **100+ endpoints** | Go backend spanning auth, billing, webhooks, and AI |
 ---
 
-### how I work
+### Academic Achievements
 
-I just think and build
+- **JEE Main:** All India Rank 2,600
+- **JEE Advanced:** All India Rank 4,500
                                 
 
 ---
