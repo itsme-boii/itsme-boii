@@ -20,29 +20,27 @@ motto   : correct first, then fast, then scalable
 </p>
 
 ---
-
-### who I am
-
-Backend and blockchain engineer with 3+ years of experience. I build the parts of a system where a retry or a race condition can move money the wrong way: order matching, settlement, schedulers and payment flows. I also write the Solidity (Foundry) that sits next to those backends and ship it to Base and BSC.
+### About
+I am a backend and blockchain engineer with 3+ years of experience. I build the parts of a system where a retry or a race condition can move money the wrong way: order matching, settlement, schedulers and payment flows. I also write the Solidity (Foundry) that sits next to those backends and ship it to any chain you can't even think of.
 
 ---
 
-### numbers
+### Engineering Impact
 
-| | |
+| Metric | Achievement |
 |---|---|
-| **8-15 ms** | median latency on a Go order-matching engine (lock-free, Redis Lua) |
-| **12+ chains** | reconciled through idempotent, retry-safe settlement |
-| **100+ jobs / 50+ GPUs** | rendered concurrently on AWS and Azure Spot instances |
-| **95%+** | interrupted Spot jobs recovered with no duplicate frames |
-| **~35%** | lower job start time from predictive GPU pre-warming |
-| **100+ endpoints** | in a single Go backend (auth, billing, webhooks, AI assistant) |
-
+| **8–15 ms** | Median latency in a Go-based CLOB order-matching engine |
+| **12+ chains** | Retry-safe, idempotent settlement across chains |
+| **100+ jobs · 50+ GPUs** | Concurrent rendering across AWS and Azure Spot |
+| **95%+** | Interrupted Spot jobs recovered without duplicate frames |
+| **~35% faster** | Job starts through predictive GPU pre-warming |
+| **100+ endpoints** | Go backend spanning auth, billing, webhooks, and AI |
 ---
 
 ### how I work
 
-What happens when this crashes halfway through a write? I start there, before I think about throughput. If the failure mode is clean, scaling is mostly hardware.
+I just think and build
+                                
 
 ---
 
